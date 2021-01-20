@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "type": 0,
+    "required": true,
+    "displayText": "What's your name?",
+    "description": "Simple text question ",
+    "options": []
+  },
+  {
+    "id": 1,
+    "type": 0,
+    "required": false,
+    "displayText": "Last pet name",
+    "description": "Not required",
+    "options": []
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "required": true,
+    "displayText": "Have you ate today?",
+    "description": "Yummmm",
+    "options": []
+  },
+  {
+    "id": 3,
+    "type": 2,
+    "required": true,
+    "displayText": "Which the best gaming option",
+    "description": "Yep",
+    "options": ["PC", "Nintendo Switch", "Arcades", "PS5","XBOX"]
+  },
+  {
+    "id": 4,
+    "type": 3,
+    "required": true,
+    "displayText": "Select your favorite dessert",
+    "description": "Yummm",
+    "options": ["Pizza", "Cake", "Muffin", "Candys","Jelly"]
+  }
+]
